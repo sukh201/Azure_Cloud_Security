@@ -1,6 +1,8 @@
-# Azure_Cloud_Security
+# Automated ELK Stack Deployment
 Cloud Infrastructure.
-## Automated ELK Stack Deployment
+
+![Red Team Cloud Network Diagram](https://user-images.githubusercontent.com/2991161/134776756-f2b46ae7-56e8-42a2-9dba-b51f592438ba.jpg)
+
 
 The files in this repository were used to configure the network depicted below.
 
