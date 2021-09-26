@@ -74,7 +74,7 @@ Steps:
 	- Finally, SSH into the ELK-VM to verify the server is up and running.
 	
 The following screenshot display the result of running Kibana on the ELK server
-	Images/Kibana_Home.png
+	(Images/Kibana_Home.png)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
