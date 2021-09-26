@@ -72,7 +72,9 @@ Steps:
 	- Changed path to /etc/ansible/files directory and created ELK playbook (ELK_Playbook.yml)
 	- Ran the ELK_Playbook.yml in the same direcrory.(ansible-playbook ELK_Playbook.yml)
 	- Finally, SSH into the ELK-VM to verify the server is up and running.
-- ...
+	
+The following screenshot display the result of running Kibana on the ELK server
+	Images/Kibana_Home.png
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
