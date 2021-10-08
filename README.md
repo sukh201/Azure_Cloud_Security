@@ -2,8 +2,9 @@
 The files in this repository were used to configure the network depicted below.
 
 ![Red Team Cloud Network Diagram](https://user-images.githubusercontent.com/2991161/134776756-f2b46ae7-56e8-42a2-9dba-b51f592438ba.jpg)
+![Red Team Cloud Network Diagram](https://user-images.githubusercontent.com/diagrams/Network-Diagram.jpg.jpg)
 
-diagrams/Network-Diagram.jpg
+
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Project 1 Tead Team Network Diagram file may be used to install only certain pieces of it, such as Filebeat.
 
   - filebeat-playbook.yml
